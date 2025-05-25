@@ -1,3 +1,4 @@
+[English](README.md) | [Türkçe](README.tr.md) 
 
 # Çevredeki Market Alışveriş Bilgilerini İnceleyerek Olası Bir Market İçin Satış Tahmini Hesaplayan AI Assistent POC 
 
