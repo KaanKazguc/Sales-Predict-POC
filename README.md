@@ -1,1 +1,1 @@
-# Sales-Predict-POC
+[English](README.md) | [Türkçe](README.tr.md) 
