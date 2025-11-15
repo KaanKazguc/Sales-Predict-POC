@@ -12,8 +12,7 @@ def karlilik_hesapla(girdiEnlem, girdiBoylam, girdiAlan, tahminiKira):
     load_dotenv()
 
     # SQL bağlantısı
-    conn_str = '
-        DRIVER={ODBC Driver 17 for SQL Server}; \
+    conn_str = ' DRIVER={ODBC Driver 17 for SQL Server}; \
         SERVER= '+ os.getenv("SERVER_NAME") +' ; \
         DATABASE=market; \
         Trusted_Connection=yes;
@@ -132,5 +131,6 @@ def load_model_and_predict(tahmin_verisi, model_path='market_sales_model_pytorch
         label_encoders = pickle.load(f)
     predictions = predict_sales(model, tahmin_verisi, scalers, label_encoders, device)
     return predictions
+
 
 
