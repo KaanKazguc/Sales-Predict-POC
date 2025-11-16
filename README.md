@@ -12,7 +12,7 @@ Suppose we go a little more abstractly in the project. It is also possible to us
 
 This project is designed to work integrated with the market control application.
 
-[Market](https://github.com/matiassingers/awesome-readme)
+[Market](https://github.com/HalilERT4S/Supermarket)
 
 ## Technologies Used
 
