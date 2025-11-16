@@ -14,7 +14,7 @@ Projede biraz daha soyutlamaya gidersek. E-ticaret ile alınan ürünlere bakara
 
 Bu proje market kontrol uygulaması ile entegre çalışacak şekilde tasarlanmıştır.
 
-[Supermarket](https://github.com/matiassingers/awesome-readme)
+[Supermarket](https://github.com/HalilERT4S/Supermarket)
 
   
 ## Kullanılan Teknolojiler
